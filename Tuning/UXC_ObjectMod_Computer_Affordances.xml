@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectTuning" i="object" m="objects.object_tuning" n="UXC_ObjectMod_Computer_Affordances" s="TBD_INSTANCE_ID">
+  <L n="affordances">
+    <T>UXC_Interaction_DesignWireframes</T>
+    <T>UXC_Interaction_RunUsabilityTest</T>
+    <T>UXC_Interaction_RemoteStandup</T>
+  </L>
+</I>
